@@ -42,10 +42,10 @@ The exact data splits used in our experiments are provided in `splits/`.
 
 | Training dataset | Evaluation datasets | Model weight |
 |---|---|---|
-| SCARED | SCARED, Hamlyn | [Download](SCARED_MODEL_LINK_TO_BE_ADDED) |
-| Hamlyn | Hamlyn, SCARED | [Download](HAMLYN_MODEL_LINK_TO_BE_ADDED) |
-| SimCol3D | SimCol3D, C3VD | [Download](SIMCOL3D_MODEL_LINK_TO_BE_ADDED) |
-| C3VD | C3VD, SimCol3D | [Download](C3VD_MODEL_LINK_TO_BE_ADDED) |
+| SCARED | SCARED, Hamlyn | [Download](https://drive.google.com/file/d/1lvGiuzoivtAkSuiLNAy3GIKR23SfdAWP/view?usp=sharing) |
+| Hamlyn | Hamlyn, SCARED | [Download](https://drive.google.com/file/d/1qvbOEBor\_7bfXdKBzPmMccPablOZznGx/view?usp=sharing) |
+| SimCol3D | SimCol3D, C3VD | [Download](https://drive.google.com/file/d/1AH4cOz-X6uhTkPTXGXug015QtIYlKezF/view?usp=sharing) |
+| C3VD | C3VD, SimCol3D | [Download](https://drive.google.com/file/d/12qaXx7u6HdI-eyiaWDgO\_cEXQ-Cuw3Cm/view?usp=sharing) |
 
 ### Depth Evaluation
 
